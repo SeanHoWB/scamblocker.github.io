@@ -20,7 +20,7 @@ The interface of Scamblocker will be bare and minimal, following the KISS princi
 
 While Google's messaging app has in-built anti-scam features, we hope scamblocker keeps "big tech" company's hands away from your private data (or, at least further away). 
 
-## 4. Be in the loop! 😎
+## 3. Be in the loop! 😎
 Join our newsletter [here](https://us14.list-manage.com/survey?u=8c650dd05a2d2dd9217318b56&id=af26caddd2&attribution=false)! We promise to never spam.
 
 Do contact our team at [scam.blocker@outlook.com](mailto:scam.blocker@outlook.com) to simply find out more or even help with our project!
