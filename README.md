@@ -32,12 +32,8 @@ Join our newsletter [here](https://us14.list-manage.com/survey?u=8c650dd05a2d2dd
     Your email:
     <input type="email" name="email">
   </label>
-  <label>
-    Your message:
-    <textarea name="Do subscribe to our newsletter for news on our progress with scamblocker! We promise to never spam."></textarea>
-  </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">Subscribe!</button>
 </form>
 
 Do contact our team at [scam.blocker@outlook.com](mailto:scam.blocker@outlook.com) to simply find out more or even help with our project!
