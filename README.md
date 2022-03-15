@@ -27,7 +27,7 @@ Join our newsletter by entering your email below, we promise to never spam. Than
 
 <!-- modify this form HTML and place wherever you want your form -->
 <form
-  action="https://outlook.us14.list-manage.com/subscribe/post?u=8c650dd05a2d2dd9217318b56&amp;id=934a34ea34"
+  action="https://us14.list-manage.com/survey?u=8c650dd05a2d2dd9217318b56&id=af26caddd2&e=*|UNIQID|*"
   method="post"
 >
   <label>
