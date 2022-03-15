@@ -23,19 +23,11 @@ While Google's messaging app has in-built anti-scam features, we hope scamblocke
 ## 3. Be in the loop! 😎
 Join our newsletter by entering your email below, we promise to never spam. Thank you for your support!
 
-
-
-<!-- modify this form HTML and place wherever you want your form -->
 <form
-  action="https://us14.list-manage.com/survey?u=8c650dd05a2d2dd9217318b56&id=af26caddd2&e=*|UNIQID|*"
   method="post"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Subscribe!</button>
+  action="https://sheetdb.io/api/v1/z2ds7stbrwanb">
+    Email: <input name="data[email]">
+    <button type="submit">Submit</button>
 </form>
 
 Do contact our team at [scam.blocker@outlook.com](mailto:scam.blocker@outlook.com) to simply find out more or even help with our project!
