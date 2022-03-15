@@ -23,10 +23,12 @@ While Google's messaging app has in-built anti-scam features, we hope scamblocke
 ## 3. Be in the loop! 😎
 Join our newsletter by entering your email below, we promise to never spam. Thank you for your support!
 
+
+
 <!-- modify this form HTML and place wherever you want your form -->
 <form
-  action="https://formspree.io/f/mayvberk"
-  method="POST"
+  action="https://outlook.us14.list-manage.com/subscribe/post?u=8c650dd05a2d2dd9217318b56&amp;id=934a34ea34"
+  method="post"
 >
   <label>
     Your email:
