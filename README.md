@@ -21,13 +21,29 @@ The interface of Scamblocker will be bare and minimal, following the KISS princi
 While Google's messaging app has in-built anti-scam features, we hope scamblocker keeps "big tech" company's hands away from your private data (or, at least further away). 
 
 ## 3. Be in the loop! 😎
-Join our newsletter by entering your email below, we promise to never spam. Thank you for your support!
+Join our newsletter by entering your email below, we promise to never spam!
 
-<form
-  method="post"
+<form method="post" id="sheetdb-form"
   action="https://sheetdb.io/api/v1/z2ds7stbrwanb">
-    Email: <input name="data[email]">
+    Your email: <input name="data[email]">
     <button type="submit">Submit</button>
 </form>
+
+<script>
+  var form = document.getElementById('sheetdb-form');
+  form.addEventListener("submit", e => {
+    e.preventDefault();
+    fetch(form.action, {
+        method : "POST",
+        body: new FormData(document.getElementById("sheetdb-form")),
+    }).then(
+        response => response.json()
+    ).then((html) => {
+      // you can put any JS code here
+      alert('Success. Thank you for your support!')
+    });
+  });
+</script>
+
 
 Do contact our team at [scam.blocker@outlook.com](mailto:scam.blocker@outlook.com) to simply find out more or even help with our project!
